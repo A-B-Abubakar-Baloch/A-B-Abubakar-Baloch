@@ -14,9 +14,8 @@
 # ___________________________
 
 # All Repo Link In Pin 📌
-[`Fork Repo`]
+[`Fork Repo`] (https://github.com/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch/fork)
 (https://github.com/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch/fork)
-
 
 # Let's Start Now 🎉
 
