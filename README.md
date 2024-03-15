@@ -26,3 +26,9 @@
 # OREO Md Bot Link
 **[`Clicked Here`](https://github.com/A-B-Abubakar-Baloch/OREO-BOT)**
 **[`Deploy Video`](https://youtu.be/LhAmV0GlYJ0?si=88XIKOz-n9s-oaoT)**
+👇🏻
+
+# Link 02
+# Bobizaa Md Bot Link
+**[`Clicked Here`](https://github.com/noureddineouafy/bobizaa)**
+**[`Deploy Video`](https://youtu.be/TXsm17Hntxs?si=sWrL1xhE5v3jaBlQ)**
