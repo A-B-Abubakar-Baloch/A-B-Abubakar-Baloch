@@ -11,6 +11,15 @@
   </a>
 </p>
 
+
+
+ <a href='https://bit.ly/3QNZUMF' target="_blank"><img alt='SCAN QR CODE' src='https://img.shields.io/badge/Scan_qr-code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+  <a href='https://jslp.vercel.app/' target="_blank"><img alt='PAIRING CODE' src='https://img.shields.io/badge/Pairing-code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+><b><s1>3.Deploy On Heroku </b></s1> 
+<a href='https://dashboard.heroku.com/new?button-url=https://github.com/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch-BOT&template=https://github.com/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch.git' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
 # ___________________________
 
 # All Repo Link In Pin 📌
