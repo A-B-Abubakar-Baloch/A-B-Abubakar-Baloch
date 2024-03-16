@@ -12,34 +12,13 @@
 </p>
 
 
-
- <a href='https://bit.ly/3QNZUMF' target="_blank"><img alt='SCAN QR CODE' src='https://img.shields.io/badge/Scan_qr-code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-  <a href='https://jslp.vercel.app/' target="_blank"><img alt='PAIRING CODE' src='https://img.shields.io/badge/Pairing-code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-
-><b><s1>3.Deploy On Heroku </b></s1> 
-<a href=https://dashboard.heroku.com/new-app target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-
-
-
 ## A-B-Abubakar-Baloch Multi Device Whatsapp Bot.
 
-***
+<a href='https://bit.ly/3QNZUMF' target="_blank"><img alt='SCAN QR CODE' src='https://img.shields.io/badge/Scan_qr-code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-### SETUP
-
-1. Fork The Repo
-    <br>
-<a href="https://github.com/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch/fork"><img title="A-B-Abubakar-Baloch Fork Repo" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=heroku"></a>
-
-
-
-
-### A-B-Abubakar-Baloch Deploy Methods
 
 -------
+**[`Fork Repo`](https://github.com/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch/fork)**
 
 #### Deploy To Heroku 
 
@@ -47,17 +26,23 @@
 
 
 ---
+**[`Fork Repo`](https://github.com/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch/fork)**
+
 #### Deploy To Railway
 
-<a href="https://upper-romy-inrl-bot.koyeb.app/info/deploy/railway"><img title="A-B-Abubakar-Baloch Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
+<a href="https://railway.app/account"><img title="A-B-Abubakar-Baloch Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
 
 
 ---
+**[`Fork Repo`](https://github.com/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch/fork)**
+
 #### Deploy To Koyeb
 
 <a href="https://upper-romy-inrl-bot.koyeb.app/info/deploy/koyeb"><img title="A-B-Abubakar-Baloch Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
 
 ---
+**[`Fork Repo`](https://github.com/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch/fork)**
+
 #### Deploy To Replit
 
 <a href="https://replit.com/github/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch"><img title="A-B-Abubakar-Baloch Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
