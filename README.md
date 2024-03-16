@@ -38,7 +38,7 @@
 
 #### Deploy To Koyeb
 
-<a href="https://upper-romy-inrl-bot.koyeb.app/info/deploy/koyeb"><img title="A-B-Abubakar-Baloch Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
+<a href="https://app.koyeb.com/login"><img title="A-B-Abubakar-Baloch Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
 
 ---
 **[`Fork Repo`](https://github.com/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch/fork)**
