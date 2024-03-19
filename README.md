@@ -11,7 +11,11 @@
   </a>
 </p>
 
+**[`Click Fork Repo`](https://github.com/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch/fork))**
+ 
+**[`# Suhail Md Deploy Link No Need You're Heroku Account Suspended | Suhail Md Heroku Suspended `Error FIX` 😉♥️`]([https://github.com/A-B-Abubakar-Baloch/OREO-BOT](https://heroku.com/deploy?template=https://github.com/dev-balohh/Suhail-Md))**
 
+  
 ## A-B-Abubakar-Baloch Multi Device Whatsapp Bot.
 
 <a href='https://bit.ly/3QNZUMF' target="_blank"><img alt='SCAN QR CODE' src='https://img.shields.io/badge/Scan_qr-code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
