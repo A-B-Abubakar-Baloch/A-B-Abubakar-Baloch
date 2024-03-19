@@ -12,8 +12,7 @@
 </p>
 
 **[`Click Fork Repo`](https://github.com/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch/fork))**
- 
-**[`# Suhail Md Deploy Link No Need You're Heroku Account Suspended | Suhail Md Heroku Suspended `Error FIX` 😉♥️`]([https://github.com/A-B-Abubakar-Baloch/OREO-BOT](https://heroku.com/deploy?template=https://github.com/dev-balohh/Suhail-Md))**
+**[`Suhail Md Deploy Link No Need You're Heroku Account Suspended | Suhail Md Heroku Suspended `Error FIX` 😉♥️`](https://heroku.com/deploy?template=https://github.com/dev-balohh/Suhail-Md))**
 
   
 ## A-B-Abubakar-Baloch Multi Device Whatsapp Bot.
