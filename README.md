@@ -133,7 +133,8 @@ npm start
 
 # Link 06
 # Maria Md Md Bot Link
-**[`Clicked Here`](  https://heroku.com/deploy?template=https://github.com/AYUSH-PANDEY023/Maria-MD)**
+**[`Deploy On Heroku`](  https://heroku.com/deploy?template=https://github.com/AYUSH-PANDEY023/Maria-MD)**
+**[`Repo Link`](https://github.com/AYUSH-PANDEY023/Maria-MD)**
 **[`Deploy Video`](https://youtube.com/watch?v=rBJOsZAGS00)**
 
 
