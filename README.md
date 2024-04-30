@@ -138,6 +138,6 @@ npm start
 
 
 # Link 06
-# Zokou Md Bot Link
+# Prince MD Md Bot Link
 **[`Clicked Here`](https://github.com/PRINCE-GDS/MR-PRINCE-BOT)**
 **[`Deploy Video`](https://youtube.com/watch?v=aGe7u945Z-4)**
