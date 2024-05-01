@@ -115,6 +115,6 @@ Suhail Md Bot Link **[`Suhail Md`](https://github.com/SuhailTechInfo/Suhail-Md)*
 
 
 > PRABATH MD
- https://github.com/prabathLK/PRABATH-MD
+ `https://github.com/prabathLK/PRABATH-MD`
 **[`DEPLOY VIDEO`](https://youtube.com/watch?v=Qpwmi9YQEdc)**
 😊
