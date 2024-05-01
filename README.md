@@ -95,16 +95,14 @@ npm start
 👇🏻
 
 
-# Link 01
-# OREO Md Bot Link
-**[`Clicked Here`](https://github.com/A-B-Abubakar-Baloch/OREO-BOT)**
-**[`Deploy Video`](https://youtu.be/LhAmV0GlYJ0?si=88XIKOz-n9s-oaoT)**
+OREO Md Bot Link **[`Oreo Md`](https://github.com/A-B-Abubakar-Baloch/OREO-BOT)** **[`Deploy Video`](https://youtu.be/TXsm17Hntxs?si=sWrL1xhE5v3jaBlQ)**
+
 👇🏻
 
 # Link 02
 # Bobizaa Md Bot Link
 **[`Clicked Here`](https://github.com/noureddineouafy/bobizaa)**
-**[`Deploy Video`](https://youtu.be/TXsm17Hntxs?si=sWrL1xhE5v3jaBlQ)**
+**[`Deploy Video`]https://youtu.be/TXsm17Hntxs?si=sWrL1xhE5v3jaBlQ)**
 👇🏻
 
 # Link 03
@@ -113,32 +111,4 @@ npm start
 **[`Deploy Video`](https://youtube.com/watch?v=7DAboXpjuZI)**
 👇🏻
 
-# Link 04
-# Suhail Md Bot Link
-**[`Clicked Here`](https://github.com/SuhailTechInfo/Suhail-Md)**
-**[`Deploy Video`](https://youtube.com/watch?v=d6FuP_ARfD0)**
-👇🏻
-
-# Link 05
-# Prabath Md Bot Link
-**[`Clicked Here`](https://github.com/prabathLK/PRABATH-MD/)**
-**[`Deploy Video`](https://youtube.com/watch?v=Qpwmi9YQEdc)**
-👇🏻
-
-# Link 06
-# Zokou Md Bot Link
-**[`Clicked Here`](https://github.com/djalega8000/Zokou-2.0)**
-**[`Deploy Video`](https://youtube.com/watch?v=rBJOsZAGS00)**
-
-
-# Link 06
-# Maria Md Md Bot Link
-**[`Deploy On Heroku`](  https://heroku.com/deploy?template=https://github.com/AYUSH-PANDEY023/Maria-MD)**
-**[`Repo Link`](https://github.com/AYUSH-PANDEY023/Maria-MD)**
-**[`Deploy Video`](https://youtube.com/watch?v=rBJOsZAGS00)**
-
-
-# Link 06
-# Prince MD Md Bot Link
-**[`Clicked Here`](https://github.com/PRINCE-GDS/MR-PRINCE-BOT)**
-**[`Deploy Video`](https://youtube.com/watch?v=aGe7u945Z-4)**
+Suhail Md Bot Link **[`Suhail Md`](https://github.com/SuhailTechInfo/Suhail-Md)** **[`Deploy Video`](https://youtube.com/watch?v=d6FuP_ARfD0)** Prabath Md Bot Link **[`Prabath Md`](https://github.com/prabathLK/PRABATH-MD/)** **[`Deploy Video`](https://youtube.com/watch?v=Qpwmi9YQEdc)** Zokou Md Bot Link **[`Zuoku Md`](https://github.com/djalega8000/Zokou-2.0)** **[`Deploy Video`](https://youtube.com/watch?v=rBJOsZAGS00)** Maria Md Md Bot Link **[`Deploy On Heroku`](  https://heroku.com/deploy?template=https://github.com/AYUSH-PANDEY023/Maria-MD)** **[`Maria Md`](https://github.com/AYUSH-PANDEY023/Maria-MD)** **[`Deploy Video`](https://youtube.com/watch?v=rBJOsZAGS00)** Prince MD Md Bot Link **[`Prince Md`](https://github.com/PRINCE-GDS/MR-PRINCE-BOT)** **[`Deploy Video`](https://youtube.com/watch?v=aGe7u945Z-4)** Flash Md Repo Link **[`Flash Md`](https://github.com/franceking1/Flash-Md)** Los Rios Repo Link **[`Los Rion`](https://github.com/A-B-Abubakar-Baloch/Los-Rios-md)**
