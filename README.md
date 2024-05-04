@@ -139,6 +139,12 @@ https://github.com/ibrahimaitech/IBRAHIM-MD
 ```
 https://github.com/AbhishekSuresh2/Phoenix-MD
 ```
- 
-
+# MAKINO MD
+```
+https://github.com/Anonphoenix007/MAKINO-MD
+```
+# STAR MD V2
+```
+https://github.com/Xcelsama/STAR-MD-V2
+```
 
