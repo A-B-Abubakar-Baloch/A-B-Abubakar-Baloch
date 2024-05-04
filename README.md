@@ -20,11 +20,6 @@
 
 **[`Click Fork Repo`](https://github.com/A-B-Abubakar-Baloch/A-B-Abubakar-Baloch/fork)**
 
-Suhail Md Paring Code All Error FIX
-**[`Parng Code`] (https://suhail-md-vtsf.onrender.com/code)**
-
-Suhail Md Heroku Account Suspended Error Solve Fixed
-**[`Deploy link`](https://heroku.com/deploy?template=https://github.com/dev-balohh/Suhail-Md)**
   
 ## A-B-Abubakar-Baloch Multi Device Whatsapp Bot.
 
@@ -96,34 +91,54 @@ npm start
 # Let's Start Now 🎉
 👇🏻
 
-# DEVBALOCH
+# PRABATH MD
 ```
 https://github.com/prabathLK/PRABATH-MD
 ```
-# Dev
-``` https://github.com/prabathLK/PRABATH-MD> PRABATH MD ```
+# OREO MD
+```
+https://github.com/A-B-Abubakar-Baloch/OREO-BOT
+```
+# BOBIZAA MD
+```
+https://github.com/noureddineouafy/bobizaa
+```
+# XKY BOT V2
+```
+https://github.com/A-B-Abubakar-Baloch/XKY-BOT-V2
+```
+# SUHAIL-MD
+```
+https://github.com/SuhailTechInfo/Suhail-Md
+```
+# ZOKOU MD
+```
+https://github.com/djalega8000/Zokou-2.0
+```
+# MARIA MD
+```
+https://github.com/AYUSH-PANDEY023/Maria-MD
+```
+# LOS RIOS MD
+```
+https://github.com/A-B-Abubakar-Baloch/Los-Rios-md
+```
+# FLASH MD
+```
+https://github.com/franceking1/Flash-Md
+```
+# PRINCE BOT
+```
+https://github.com/PRINCE-GDS/MR-PRINCE-BOT
+```
+# PANTHER MD
+```
+https://github.com/ibrahimaitech/IBRAHIM-MD
+```
+# PHOENIX MD
+```
+https://github.com/AbhishekSuresh2/Phoenix-MD
+```
+ 
 
 
-OREO Md Bot Link **[`Oreo Md`](https://github.com/A-B-Abubakar-Baloch/OREO-BOT)** **[`Deploy Video`](https://youtu.be/TXsm17Hntxs?si=sWrL1xhE5v3jaBlQ)**
-
-👇🏻
-
-# Link 02
-# Bobizaa Md Bot Link
-**[`Clicked Here`](https://github.com/noureddineouafy/bobizaa)**
-**[`Deploy Video`]https://youtu.be/TXsm17Hntxs?si=sWrL1xhE5v3jaBlQ)**
-👇🏻
-
-# Link 03
-# XKY Md Bot Link
-**[`Clicked Here`](https://github.com/A-B-Abubakar-Baloch/XKY-BOT-V2)**
-**[`Deploy Video`](https://youtube.com/watch?v=7DAboXpjuZI)**
-👇🏻
-
-Suhail Md Bot Link **[`Suhail Md`](https://github.com/SuhailTechInfo/Suhail-Md)** **[`Deploy Video`](https://youtube.com/watch?v=d6FuP_ARfD0)** Prabath Md Bot Link **[`Prabath Md`](https://github.com/prabathLK/PRABATH-MD/)** **[`Deploy Video`](https://youtube.com/watch?v=Qpwmi9YQEdc)** Zokou Md Bot Link **[`Zuoku Md`](https://github.com/djalega8000/Zokou-2.0)** **[`Deploy Video`](https://youtube.com/watch?v=rBJOsZAGS00)** Maria Md Md Bot Link **[`Deploy On Heroku`](  https://heroku.com/deploy?template=https://github.com/AYUSH-PANDEY023/Maria-MD)** **[`Maria Md`](https://github.com/AYUSH-PANDEY023/Maria-MD)** **[`Deploy Video`](https://youtube.com/watch?v=rBJOsZAGS00)** Prince MD Md Bot Link **[`Prince Md`](https://github.com/PRINCE-GDS/MR-PRINCE-BOT)** **[`Deploy Video`](https://youtube.com/watch?v=aGe7u945Z-4)** Flash Md Repo Link **[`Flash Md`](https://github.com/franceking1/Flash-Md)** Los Rios Repo Link **[`Los Rion`](https://github.com/A-B-Abubakar-Baloch/Los-Rios-md)**
-
-
-> PRABATH MD
- `https://github.com/prabathLK/PRABATH-MD`
-**[`DEPLOY VIDEO`](https://youtube.com/watch?v=Qpwmi9YQEdc)**
-😊
