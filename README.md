@@ -11,7 +11,10 @@
   </a>
 </p>
 
+🎊🏆🎉
 # CC BIN
+**[`Creadit Card Generater`](https://master-cc-ganerater.vercel.app/)**
+
 4916296041504621 (01/29 CVV 000)
 # ________________________________
 😏
